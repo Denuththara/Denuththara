@@ -8,7 +8,7 @@
 - 🌱 **Learning:** Java & HTML right now
 - 💻 **Passion:** Software Engineering & Problem Solving  
 - 🎯 **Goal:** Become a Pro Software Engineer
-- 🇱🇰 **Based in:** Hanwella, Sri Lanka
+- 🇱🇰 **Based in:**  Sri Lanka
 
 ---
 
